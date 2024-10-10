@@ -1,2 +1,2 @@
 # Research_proj
-Research Project Scripts
+Scripts used in in my research project
